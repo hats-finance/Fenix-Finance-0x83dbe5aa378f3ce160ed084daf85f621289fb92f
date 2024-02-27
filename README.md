@@ -1,3 +1,11 @@
+# Audit Competition for Fenix-Finance
+This repository is for the audit competition for the Fenix-Finance.
+To participate, submit your findings only by using the on-chain submission process on https://app.hats.finance/vulnerability .
+## How to participate
+- follow the instructions on https://app.hats.finance/
+## Good luck!
+We look forward to seeing your findings.
+* * *
 
 ## Project overiew
 This repository is a fork of [Algebrta Integral V1](https://github.com/cryptoalgebra/Algebra), with the following new features implemented:
